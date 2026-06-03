@@ -57,3 +57,6 @@ Users often struggle to find movies they will like. This project solves that by 
 pip install -r requirements.txt
 python svd_model.py
 streamlit run app.py
+
+app steamlit link : https://movie-recommender-fkicrpxcyupqulfhntr5mz.streamlit.app/
+
